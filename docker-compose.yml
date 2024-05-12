@@ -7,3 +7,4 @@ services:
       - 8080:80
     environment:
       MYENV: "hello compose"
+      SAMPLE: "this is sample sentence"
